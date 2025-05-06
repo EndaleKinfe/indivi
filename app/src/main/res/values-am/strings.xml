@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Individual</string>
+    <string name="hello_blank_fragment">ሰላም ባዶ</string>
+    <string name="first_name_hint">ስም</string>
+    <string name="last_name_hint">የአባት ስም</string>
+    <string name="email_hint">ኢሜል</string>
+    <string name="phone_hint">ስልክ ቁ</string>
+    <string name="birthdate_hint">የትውልድ ቀን</string>
+    <string name="pick_image">ምስለ ምረጠዕ</string>
+    <string name="register">መዝግብ</string>
+    <string name="Account">አካውንት</string>
+    <string name="Info">የርሶ መረጃ</string>
+    <string name="language">ቋንቋ</string>
+    <string name="theme">ሽብርቅር</string>
+    <string name="toregister">ወደ ምዝገባ</string>
+    <string name="fullname">ሙሉ ስም</string>
+</resources>

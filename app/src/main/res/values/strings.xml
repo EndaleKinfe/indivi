@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Individual</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="birthdate_hint">Birthdate</string>
+    <string name="pick_image">Pick an image</string>
+    <string name="register">Register</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="Account">Account</string>
+    <string name="Info">Your Info</string>
+    <string name="language">Language</string>
+    <string name="theme">Theme</string>
+    <string name="fullname">Full Name</string>
+    <string name="toregister">Go To Registration</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Amharic</item>
+    </string-array>
+    <string-array name="themes">
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+</resources>
