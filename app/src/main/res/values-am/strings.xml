@@ -7,7 +7,7 @@
     <string name="email_hint">ኢሜል</string>
     <string name="phone_hint">ስልክ ቁ</string>
     <string name="birthdate_hint">የትውልድ ቀን</string>
-    <string name="pick_image">ምስለ ምረጠዕ</string>
+    <string name="pick_image">ምስለ ምረጥ</string>
     <string name="register">መዝግብ</string>
     <string name="Account">አካውንት</string>
     <string name="Info">የርሶ መረጃ</string>
@@ -15,4 +15,11 @@
     <string name="theme">ሽብርቅር</string>
     <string name="toregister">ወደ ምዝገባ</string>
     <string name="fullname">ሙሉ ስም</string>
+    <string name="changeLang" >ቋንቋ ለውጥ</string>
+    <string name="change">ለውጥ</string>
+
+    <string-array name="themes">
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
 </resources>

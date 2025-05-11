@@ -30,7 +30,7 @@ public class Home extends AppCompatActivity {
         binding.emailtv.setText(intent.getStringExtra("email"));
         binding.phonetv.setText(intent.getStringExtra("phone"));
         binding.bdtv.setText(intent.getStringExtra("bday"));
-        binding.userimage.setImageURI(intent.getParcelableExtra("image"));
+        binding.userimage.setImageURI(intent.getParcelableExtra("imageuri"));
         binding.fname.setText(namef);
         Log.d("first name sent: ", namef);
 
@@ -53,7 +53,4 @@ public class Home extends AppCompatActivity {
     }
 
 
-    private void getDta(){
-
-    }
 }

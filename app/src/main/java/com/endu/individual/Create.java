@@ -83,7 +83,6 @@ public class Create extends AppCompatActivity {
         i.putExtra("phone", binding.phoneEt.getText().toString());
         i.putExtra("bday", binding.birthdate.getText().toString());
         i.putExtra("imageuri", uri);
-        Log.d("first name sent: ", String.valueOf(binding.fnEt.getText()));
         startActivity(i);
     }
 

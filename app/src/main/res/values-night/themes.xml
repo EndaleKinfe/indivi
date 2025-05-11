@@ -4,7 +4,7 @@
         <item name="colorPrimary">#3E8E7E</item>
         <item name="colorPrimaryVariant">#4A6572</item>
         <item name="colorOnPrimary">#ECEFF1</item>
-
+        <item name="colorContainer">#263238</item>
         <item name="colorOnBackground">#E8FDF9</item>
 
         <item name="colorSurface">#37474F</item>
